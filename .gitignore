@@ -2,3 +2,4 @@ mylogs.log
 mylogs2.log
 /mylogs3.log   
 *.cpp
+ignoreDirectory/
